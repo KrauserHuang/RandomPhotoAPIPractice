@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4F7B9BFF25C6444000031CB2 /* RandomImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7B9BFE25C6444000031CB2 /* RandomImageViewController.swift */; };
+		4F7B9C0425C657DB00031CB2 /* CustomeImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F7B9C0325C657DB00031CB2 /* CustomeImageViewController.swift */; };
 		4F8CD10825957EF600D4F12A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F8CD10725957EF600D4F12A /* AppDelegate.swift */; };
 		4F8CD10A25957EF600D4F12A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F8CD10925957EF600D4F12A /* SceneDelegate.swift */; };
 		4F8CD10C25957EF600D4F12A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4F8CD10B25957EF600D4F12A /* ViewController.swift */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4F7B9BFE25C6444000031CB2 /* RandomImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RandomImageViewController.swift; sourceTree = "<group>"; };
+		4F7B9C0325C657DB00031CB2 /* CustomeImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomeImageViewController.swift; sourceTree = "<group>"; };
 		4F8CD10425957EF600D4F12A /* RandomPhotoAPIPractice.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RandomPhotoAPIPractice.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4F8CD10725957EF600D4F12A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4F8CD10925957EF600D4F12A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -103,6 +107,8 @@
 				4F8CD10925957EF600D4F12A /* SceneDelegate.swift */,
 				4F8CD10B25957EF600D4F12A /* ViewController.swift */,
 				4F8CD10D25957EF600D4F12A /* Main.storyboard */,
+				4F7B9C0325C657DB00031CB2 /* CustomeImageViewController.swift */,
+				4F7B9BFE25C6444000031CB2 /* RandomImageViewController.swift */,
 				4F8CD11025957EF900D4F12A /* Assets.xcassets */,
 				4F8CD11225957EF900D4F12A /* LaunchScreen.storyboard */,
 				4F8CD11525957EF900D4F12A /* Info.plist */,
@@ -259,8 +265,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				4F8CD10C25957EF600D4F12A /* ViewController.swift in Sources */,
+				4F7B9BFF25C6444000031CB2 /* RandomImageViewController.swift in Sources */,
 				4F8CD10825957EF600D4F12A /* AppDelegate.swift in Sources */,
 				4F8CD10A25957EF600D4F12A /* SceneDelegate.swift in Sources */,
+				4F7B9C0425C657DB00031CB2 /* CustomeImageViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
